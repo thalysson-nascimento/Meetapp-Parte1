@@ -33,7 +33,7 @@ devDependencies
 Back-and desenvolvido em ambiente NodeJS.
 
 ### Forma de inicialização:
-Após a configuração a aplicação deverá ser incializada com o seguinte comando abaixo:
+Para inicializar a aplicação deverá ser executado no terminal os seguintes comandos abaixo:
 
 Para instalar todas as dependências
 ```bash
