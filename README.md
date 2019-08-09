@@ -7,22 +7,26 @@ Este projeto tem como finalidade a conclusão do Backen-01 da avaliação final 
 
 dependencies
 <ul>
-<li>bcryptjs</li>
-<li>express</li>
-<li>jsonwebtoken</li>
-<li>multer</li>
-<li>pg</li>
-<li>pg-hstore</li>
-<li>sequelize</li>
-<li>yup</li>
+    <li>bcryptjs</li>
+    <li>express</li>
+    <li>jsonwebtoken</li>
+    <li>pg</li>
+    <li>pg-hstore</li>
+    <li>sequelize</li>
+    <li>yup</li>
 </ul>
 
 devDependencies
 <ul>
-<li>eslint</li>
-<li>nodemon</li>
-<li>sequelize-cli</li>
-<li>sucrase</li>
+    <li>eslint</li>
+    <li>eslint-config-airbnb-base</li>
+    <li>eslint-config-prettier</li>
+    <li>eslint-plugin-import</li>
+    <li>eslint-plugin-prettier</li>
+    <li>nodemon</li>
+    <li>prettier</li>
+    <li>sequelize-cli</li>
+    <li>sucrase</li>
 </ul>
 
 ### Configuração do ambiente:
