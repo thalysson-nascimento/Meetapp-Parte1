@@ -1,10 +1,10 @@
 ﻿# Api-Meetapp - NodeJS
 
-### Descrição:
+## Descrição:
 Este projeto tem como finalidade a conclusão do Backen-01 da avaliação final do Bootcamp GoStack da Rocketseat
 
 
-### Requisitos do desafio:
+## Requisitos do desafio:
 
 Nessa aplicação configure as seguintes ferramentas:
 
@@ -12,7 +12,7 @@ Nessa aplicação configure as seguintes ferramentas:
 - ESLint + Prettier + EditorConfig;
 - Sequelize (Utilize PostgresSQL ou MySQL);
 
-## Funcionalidades
+### Funcionalidades
 
 Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplicação.
 
@@ -32,7 +32,7 @@ Para atualizar a senha, o usuário deve também enviar um campo de confirmação
 - Criptografe a senha do usuário para segurança.
 - Realize a validação dos dados de entrada;
 
-### Tecnologias:
+## Tecnologias:
 
 dependencies
 <ul>
@@ -58,10 +58,10 @@ devDependencies
     <li>sucrase</li>
 </ul>
 
-### Configuração do ambiente:
+## Configuração do ambiente:
 Back-and desenvolvido em ambiente NodeJS.
 
-### Forma de inicialização:
+## Forma de inicialização:
 Para inicializar a aplicação deverá ser executado no terminal os seguintes comandos abaixo:
 
 Para instalar todas as dependências
